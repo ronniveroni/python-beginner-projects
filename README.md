@@ -1,5 +1,4 @@
 # python-beginner-projects
-# Python Beginner Projects
 
 This repository contains small Python projects I built while learning programming.
 
